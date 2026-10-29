@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="appnope" />
+          <option value="asttokens" />
+          <option value="backcall" />
+          <option value="beautifulsoup4" />
+          <option value="bleach" />
+          <option value="decorator" />
+          <option value="defusedxml" />
+          <option value="docopt" />
+          <option value="executing" />
+          <option value="fastjsonschema" />
+          <option value="ipython" />
+          <option value="jedi" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="matplotlib-inline" />
+          <option value="mistune" />
+          <option value="nbclient" />
+          <option value="nbconvert" />
+          <option value="nbformat" />
+          <option value="pandocfilters" />
+          <option value="parso" />
+          <option value="pexpect" />
+          <option value="pickleshare" />
+          <option value="pipreqs" />
+          <option value="platformdirs" />
+          <option value="ptyprocess" />
+          <option value="pyzmq" />
+          <option value="referencing" />
+          <option value="rpds-py" />
+          <option value="soupsieve" />
+          <option value="stack-data" />
+          <option value="tinycss2" />
+          <option value="tornado" />
+          <option value="traitlets" />
+          <option value="wcwidth" />
+          <option value="webencodings" />
+          <option value="yarg" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
